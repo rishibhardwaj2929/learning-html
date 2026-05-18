@@ -1,0 +1,36 @@
+1 day marque
+
+
+TAGS ..
+
+1.opning tag =<op>,  close tag= <cl>
+2.Give tital<tita></tital>
+3.heading=<h></h>,<h1></h1>,.......
+4.paragraph = <p></p>
+5.For lines =<hr>
+6.break line=<br></br>
+7.Bold the text = <b></b>
+
+Anatomy of an HTLM element...
+
+== > Opening tag ,closing tag ,Tribute name, Attribute value ,content,Cleaning tag
+
+1=opening tag = <lagname> tells browser where  element start
+2=closing tag = </lagname>  the name closing tag
+3= self closing = <br>,<img/>,<input/>,<meta/> - -no content , no closing tag
+4=attributes == key ="value" pairs inside theopening tag .add extra 
+
+
+most used HTML attributes
+     1. ID= "name"
+     2. href="url'
+     3. alt ="text"
+     4. class="name'
+     5. src="path"
+     6. style ="css"
+
+Forms = collection user input
+     
+
+
+

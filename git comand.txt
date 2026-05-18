@@ -1,0 +1,3 @@
+add new branch = git checkout(name of the branch}
+make a new branch = git checkout -b(name of the branch)
+switch in branch = git switch (name of the branch)
